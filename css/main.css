@@ -104,3 +104,9 @@ header nav a:hover {
 .carrosel-filmes {
     margin: 10px;
 }
+
+.titulo-filmes {
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
