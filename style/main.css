@@ -20,7 +20,7 @@ body {
 header .logo {
     color: var(--vermelho);
     font-family: sans;
-    font-size: 40px;
+    font-size: 35px;
     text-transform: uppercase;
 }
 
